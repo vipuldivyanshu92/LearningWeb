@@ -1,0 +1,51 @@
+body{margin:0 px;}
+	#pageTop{
+	background:url(images.png) repeat-x;
+	height: 90px;
+	}	
+	#pageTop > #pageTopWrap{
+		float:left;
+		widht:1000px;
+		height: 60px;
+	margin:0px auto;
+	}
+	#pageTop > #pageTopWrap > #pageTopLogo{
+	float:left;
+	background:url(logo.png) no-repeat;
+	height: 90px;
+	width: 80px;
+	}
+	#pageTop > #pageTopWrap > #pageTopRest{
+	float:left;
+	height: 55px;
+	width: 892px;
+	}
+	#pageTop > #pageTopWrap > #pageTopRest > #div {
+	height:: 44px;}
+	#pageTop > #pageTopWrap > #pageTopRest > menu1 {
+	height:: 44px;}
+	#pageTop > #pageTopWrap > #pageTopRest > menu2 {
+	height:: 44px;}
+	#pageTop > #pageTopWrap > #pageTopRest > menu2 > div{
+	float:left;
+	margin-top:10px;
+	padding : 4px;
+	}
+	#pageTop > #pageTopWrap > #pageTopRest > menu2 > div > a {
+	display:block;
+	float:left;
+	color:#CCCCCC;
+	margin:5px 18px;
+	text-decoration:none;
+	}
+	#pageMiddle{
+	background:#CCCCCC;
+	width:1000px;	
+	margin:0px auto;
+	height:900px;	}
+	#pageBottom{background:#999999;
+	widht:1000px;
+	height: 15px;
+	padding:10px;
+	font-size:12px;
+	text-align:center;}
